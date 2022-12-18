@@ -93,3 +93,10 @@ GOLD FLOW TOKENS ARE BACKED BY PHYSICALLY VAULTED GOLD; 1 GRAM = 1 GFT AT 99.99%
 
 {% end %}
 
+
+{% subscrib() %}
+
+## Join The Movement
+
+{% end %}
+
