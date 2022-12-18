@@ -26,7 +26,10 @@ weight: 1
 # GoldFlow{#text-7xl}
 
 
-My trunk is an idea that a good friend and I had a long time ago. This was at the start of the whole .com boom where everyone that had an idea got millions to execute on it.
+### Instant access to <br> liquid gold assets.{#text-7xl}
+
+
+
 
 <button>[Like!](/)</button>
 
@@ -49,7 +52,7 @@ each GFT token represents 0.1 gram of 99.99%.
 {% end %}
 
 {% row(style="center" margin="tight" padding="none") %}
-![Lorem](placeholder.jpg#small)
+![Lorem](placeholder.jpg#small#mx-auto)
 
 #### **SPEND ANYWHERE**
 
@@ -57,7 +60,7 @@ USE YOUR GOLDFLOW WALLET TO SPEND, STORE, EXCHANGE YOUR GOLD JUST LIKE FIAT. ENJ
 
 |||
 
-![Lorem](placeholder.jpg#small)
+![Lorem](placeholder.jpg#small#mx-auto)
 
 #### **MULTI PLATFORM**
 
@@ -65,7 +68,7 @@ GOLD WORKS ACROSS MULTIPLE PLATFORMS; DESKTOP AND MOBILE AVAILABLE IN APPLE AND 
 
 |||
 
-![Lorem](placeholder.jpg#small)
+![Lorem](placeholder.jpg#small#mx-auto)
 
 #### **REDEEM ANYTIME**
 
@@ -73,7 +76,7 @@ EACH GRAM OF GOLD IS REDEEMABLE THROUGH THE GOLDFLOW WALLET AND CAN BE PHYSICALL
 
 |||
 
-![Lorem](placeholder.jpg#small)
+![Lorem](placeholder.jpg#small#mx-auto)
 
 #### **BACKED BY GOLD**
 
@@ -82,10 +85,6 @@ GOLD FLOW TOKENS ARE BACKED BY PHYSICALLY VAULTED GOLD; 1 GRAM = 1 GFT AT 99.99%
 
 {% end %}
 
-<br>
-<br>
-
-<!-- section 3 -->
 
 {% row(style="center" margin="narrow" padding="bottom") %}
 
