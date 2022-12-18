@@ -37,29 +37,48 @@ My trunk is an idea that a good friend and I had a long time ago. This was at th
 
 <!-- section 2  -->
 
-{% row(style="center" margin="narrow" padding="both") %}
+{% row(style="center" margin="tight" padding="top") %}
 
-![Lorem](placeholder.jpg#medium)
+## LIQUID DIGITAL GOLD{#text-6xl}
 
-### **SECTION 2.1**
+GoldFlow implements blockchain technology and decentralized infrastructure to digitize vaulted gold; 
+enabling users to store and transact from their mobile digital wallet. GoldFlow token is a digital asset backed by physical gold,
+each GFT token represents 0.1 gram of 99.99%.
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+
+{% end %}
+
+{% row(style="center" margin="tight" padding="none") %}
+![Lorem](placeholder.jpg#small)
+
+#### **SPEND ANYWHERE**
+
+USE YOUR GOLDFLOW WALLET TO SPEND, STORE, EXCHANGE YOUR GOLD JUST LIKE FIAT. ENJOY LOW PAYMENT FEES AND THE MOST SECURE DIGITAL CURRENCY. 
 
 |||
 
-![Lorem](placeholder.jpg#medium)
+![Lorem](placeholder.jpg#small)
 
-### **SECTION 2.2**
+#### **MULTI PLATFORM**
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+GOLD WORKS ACROSS MULTIPLE PLATFORMS; DESKTOP AND MOBILE AVAILABLE IN APPLE AND ANDROID APP STORES.
 
 |||
 
-![Lorem](placeholder.jpg#medium)
+![Lorem](placeholder.jpg#small)
 
-### **SECTION 2.3**
+#### **REDEEM ANYTIME**
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+EACH GRAM OF GOLD IS REDEEMABLE THROUGH THE GOLDFLOW WALLET AND CAN BE PHYSICALLY COLLECTED FROM ANY OF OUR VAULTS.
+
+|||
+
+![Lorem](placeholder.jpg#small)
+
+#### **BACKED BY GOLD**
+
+GOLD FLOW TOKENS ARE BACKED BY PHYSICALLY VAULTED GOLD; 1 GRAM = 1 GFT AT 99.99% GOLD PURITY. MONTHLY AUDITS BY THIRD PARTY TRUSTED GLOBAL PROVIDERS.
+
 
 {% end %}
 
@@ -68,98 +87,10 @@ Lorem ipsum dolor, sit amet consectetur adipisicing elit.
 
 <!-- section 3 -->
 
-{% row(style="center" margin="narrow" padding="both") %}
+{% row(style="center" margin="narrow" padding="bottom") %}
 
-![Image](placeholder.jpg)
+![Image](gold.jpg#medium#mx-auto)
 
-|||
-
-## SECTION # <br /> HERE
-
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quas, aliquid ab blanditiis omnis odio repellat?
-
-<button>[BUTTON](/)</button>
 
 {% end %}
 
-<!-- section 4 -->
-
-{% row(style="" margin="narrow" padding="top") %}
-
-![Image](placeholder.jpg#sm#mx-auto)
-
-|||
-
-### **SECTION 4.1**
-
-Lorem ipsum dolor, sit amet consectetur adipisicing elit.Quas, aliquid ab blanditiis omnis odio repellat?
-
-|||
-
-![Image](placeholder.jpg#sm#mx-auto)
-
-|||
-
-### **SECTION 4.2**
-
-Lorem ipsum dolor, sit amet consectetur adipisicing elit.Quas, aliquid ab blanditiis omnis odio repellat?
-
-{% end %}
-
-<!-- section 4-2-->
-
-{% row(style="" margin="narrow" padding="bottom") %}
-
-![Image](placeholder.jpg#sm#mx-auto)
-
-|||
-
-### **SECTION 4.3**
-
-Lorem ipsum dolor, sit amet consectetur adipisicing elit.Quas, aliquid ab blanditiis omnis odio repellat?
-
-|||
-
-![Image](placeholder.jpg#sm#mx-auto)
-
-|||
-
-### **SECTION 4.5**
-
-Lorem ipsum dolor, sit amet consectetur adipisicing elit.Quas, aliquid ab blanditiis omnis odio repellat?
-
-{% end %}
-
-
-
-<!-- section 5 -->
-
-{% row(style="center" margin="narrow" padding="both") %}
-
-## SECTION 5 <br /> HEADER
-
-Lorem ipsum dolor, sit amet consectetur adipisicing elit.Quas, aliquid ab blanditiis omnis odio repellat?
-
-|||
-
-![Image](placeholder.jpg)
-
-{% end %}
-
-<!-- section 6 -->
-
-{% row(style="center" margin="narrow" padding="top") %}
-
-## SECTION 6
-
-Lorem ipsum dolor, sit amet consectetur adipisicing elit
-
-<button>[BUTTON](/)</button>
-
-{% end %}
-
-{% row(margin="header" padding="none") %}
-
-    ![Image](placeholder.jpg#medium#mx-auto)
-
-{% end %}
