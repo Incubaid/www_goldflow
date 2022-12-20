@@ -52,7 +52,7 @@ each GFT token represents 0.1 gram of 99.99%.
 {% end %}
 
 {% row(style="center" margin="tight" padding="none") %}
-![Lorem](placeholder.jpg#small#mx-auto)
+![cart](cart.png#mx-auto)
 
 #### **SPEND ANYWHERE**
 
@@ -60,7 +60,7 @@ USE YOUR GOLDFLOW WALLET TO SPEND, STORE, EXCHANGE YOUR GOLD JUST LIKE FIAT. ENJ
 
 |||
 
-![Lorem](placeholder.jpg#small#mx-auto)
+![multi](multi.png#mx-auto)
 
 #### **MULTI PLATFORM**
 
@@ -68,7 +68,7 @@ GOLD WORKS ACROSS MULTIPLE PLATFORMS; DESKTOP AND MOBILE AVAILABLE IN APPLE AND 
 
 |||
 
-![Lorem](placeholder.jpg#small#mx-auto)
+![globe](globe.png#mx-auto)
 
 #### **REDEEM ANYTIME**
 
@@ -76,7 +76,7 @@ EACH GRAM OF GOLD IS REDEEMABLE THROUGH THE GOLDFLOW WALLET AND CAN BE PHYSICALL
 
 |||
 
-![Lorem](placeholder.jpg#small#mx-auto)
+![shield](shield.png#mx-auto)
 
 #### **BACKED BY GOLD**
 
