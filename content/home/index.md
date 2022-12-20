@@ -51,7 +51,7 @@ each GFT token represents 0.1 gram of 99.99%.
 
 {% end %}
 
-{% row(style="center" margin="tight" padding="none") %}
+{% row(style="center" margin="narrow" padding="none") %}
 ![cart](cart.png#mx-auto)
 
 #### **SPEND ANYWHERE**

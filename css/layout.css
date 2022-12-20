@@ -41,7 +41,7 @@ code {
 
 .navWhite:focus,
 .navWhite:active {
-  @apply text-gray-400;
+  @apply text-gray-900;
 }
 
 .text-blue-light {
@@ -85,10 +85,10 @@ a h2 {
 
 a:focus,
 a:hover {
-  @apply border-none text-blue-300;
+  @apply border-none text-gray-700;
 }
 a:active {
-  @apply text-blue-800 border-blue-500;
+  @apply text-gray-600 border-gray-500;
 }
 
 h5 a {
