@@ -13,11 +13,11 @@ weight: 1
 <!-- section 1 (header) -->
 
 
-{% row(style="narrow" margin="header" bgPath="/goldflow-background.png" bgStyle="full") %}
+{% row(style="narrow" margin="header" bgPath="/Gold_BG.jpg" bgStyle="full") %}
 
 
 
-
+![mobile](mobile.png#medium#mx-auto)
 
 |||
 
