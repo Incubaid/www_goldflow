@@ -1,0 +1,22 @@
+name: www2.goldflowtoken.com
+on:
+  push:
+    branch: [development]
+
+jobs:
+  job_one:
+    name: Deploy
+    runs-on: ubuntu-latest
+    steps:
+      - name: pushing latest change on www2.goldflowtoken.com
+        uses: appleboy/ssh-action@master
+        with:
+          host: www2.goldflowtoken.com
+          username: webuser
+          key: ${{ secrets.TF_SECRET }}
+          port: 34022
+          script: |
+            cd /home/webuser/websites/www2/www_goldflow/
+            git log -1
+            git pull
+            bash build.sh
