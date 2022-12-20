@@ -9,5 +9,5 @@ extra:
 ---
 
 - [HOME]("/")
-- [About]("/ablut")
+- [About]("/about")
 - [Blog]("/blog")
