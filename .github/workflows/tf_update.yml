@@ -18,5 +18,6 @@ jobs:
           script: |
             cd /home/webuser/websites/www2/www_goldflow/
             git log -1
+            git restore static/css/index.css
             git pull
             bash build.sh
