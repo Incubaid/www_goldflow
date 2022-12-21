@@ -17,13 +17,13 @@ weight: 1
 
 
 
-![mobile](mobile.png#medium#mx-auto)
+![mobile](mobile2.png#medium#mx-auto)
 
 |||
 
 #### RESPONSIBLE DIGITAL GOLD
 
-# GoldFlow{#text-7xl}
+## GoldFlow{#text-7xl}
 
 
 ### Instant access to <br> liquid gold assets.{#text-7xl}
